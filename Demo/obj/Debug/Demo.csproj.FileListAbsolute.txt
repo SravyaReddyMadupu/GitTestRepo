@@ -1,0 +1,7 @@
+C:\Users\Vinay\Source\Repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Vinay\Source\Repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Vinay\Source\Repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Vinay\Source\Repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Vinay\Source\Repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Source\Repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Vinay\Source\Repos\Demo\Demo\obj\Debug\Demo.pdb
